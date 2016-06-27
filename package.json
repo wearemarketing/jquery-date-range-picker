@@ -11,6 +11,7 @@
     "picker",
     "range"
   ],
+  "main": "src/jquery.daterangepicker.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/longbill/jquery-date-range-picker.git"
